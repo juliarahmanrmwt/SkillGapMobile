@@ -1,3 +1,3 @@
-# skillgap_mobile
+# SkillGapMobile
 
-A new Flutter project.
+Aplikasi Skill Gap AI berbasis Flutter.
